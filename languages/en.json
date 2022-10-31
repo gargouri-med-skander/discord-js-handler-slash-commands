@@ -1,0 +1,26 @@
+{
+  "errors": {
+    "title_1": "You are not allowed to run this command!",
+    "title_2": "Something wrong!",
+    "description_1": {
+      "text_1": "Please wait",
+      "text_2": "before reusing the command:"
+    },
+    "description_2": "You need these Permission(s):",
+    "description_3": "You need to have one of the Following Roles:",
+    "description_4": "You need to be one of the Following Users:",
+    "description_5": "Sorry, I failed setting up...!"
+  },
+  "embeds": {
+    "footer": {
+      "requested_by": "Requested by:"
+    }
+  },
+  "slash": {
+    "cmds": {
+      "general": {
+        "hello": "Hello"
+      }
+    }
+  }
+}

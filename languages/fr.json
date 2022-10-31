@@ -1,0 +1,26 @@
+{
+  "errors": {
+    "title_1": "Vous n'êtes pas autorisé à exécuter cette commande!",
+    "title_2": "Quelque chose ne va pas!",
+    "description_1": {
+      "text_1": "S'il vous plaît, attendez",
+      "text_2": "avant de réutiliser la commande:"
+    },
+    "description_2": "Vous avez besoin de ces autorisations:",
+    "description_3": "Vous devez avoir l'un des rôles suivants:",
+    "description_4": "Vous devez être l'un des utilisateurs suivants:",
+    "description_5": "Désolé, j'ai échoué à configurer...!"
+  },
+  "embeds": {
+    "footer": {
+      "requested_by": "Demandé par:"
+    }
+  },
+  "slash": {
+    "cmds": {
+      "general": {
+        "hello": "Salue"
+      }
+    }
+  }
+}
